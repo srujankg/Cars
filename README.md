@@ -19,6 +19,6 @@ Charge per query ($0.026 to $0.05 depedning on vlume)
 Cache locally
 
 ## Diagram
-
+![image](https://user-images.githubusercontent.com/52220186/62165692-9eeb0200-b2e4-11e9-8920-a0a122e61357.png)
    # Advanatages
 Discoveries are usually costly and are very time-consuming. However, this program lessens the stress caused by these inquiries. As this program allows making discoveries with benefits such as efficiency, less time consuming, and gain better insight. Once you login through the program with a simple search of the persons' name and specific property you are trying to inspect, the properties registered to the name you search would be showcased through the program which is very efficient and less time-consuming. Moreover, you could gain more insight into other properties the party holds on their name that no one has further knowledge about an individual property which could help around the case. You also gain information on the estimated values of the property over time.
