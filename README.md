@@ -14,6 +14,66 @@ This is an Example of an XML file with data
 ![image](https://user-images.githubusercontent.com/52220186/62242764-7d038500-b3a1-11e9-833d-435361f82329.png)
 This example of XML data contain VIN, the registartion date,model,year nought, and the name the car is on.
 
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<pddata type="search" sitetype="xml">
+   <pdheaders />
+   <pdfooters />
+   <notes />
+   <searchdata type="ADVANCED" asiname="NAME" title="Texas - Department of Motor Vehicles [Owners]" dbcount="1" reccount="55303681" db="txdmv" ed="147">
+      <userinput searchstring="AVA DALEY">
+         <p1>JANE DOE</p1>
+         <matchany>ALL</matchany>
+      </userinput>
+      <searchgroup>TXDMV</searchgroup>
+      <dispfields />
+      <searchpages curpage="1" ismore="false">
+         <page pagenum="1" searchmoreid="0" />
+      </searchpages>
+   </searchdata>
+   <user>
+      <dlnumber>XXXXXX933</dlnumber>
+      <dlstate>UID</dlstate>
+      <id>D5285FA51A708AEC7B2412FB34BBA264</id>
+      <identifier />
+      <sessionid />
+      <tacdmv>DPPATX-01</tacdmv>
+   </user>
+   <servers>
+      <searchserver>lbsearch.publicdata.com</searchserver>
+      <loginserver>login.publicdata.com</loginserver>
+      <mainserver>www.publicdata.com</mainserver>
+   </servers>
+   <lookups>
+      <charged>1</charged>
+      <available>666</available>
+   </lookups>
+   <results numrecords="3" ismore="false">
+      <record rec="30897148077" db="txdmv" ed="147">
+         <disp_fld1>TEXAS A&amp;M TRANSPORTATION INSTITUTE</disp_fld1>
+         <disp_fld2>Year/Make/Model: 2011 KIA MOTOR CORPORATION KIA MOTOR CORPORATION RIO</disp_fld2>
+         <disp_fld3>Current License Plate:</disp_fld3>
+         <disp_fld4>Previous License Plate:</disp_fld4>
+         <source>Texas - Department of Motor Vehicles [Owners]</source>
+      </record>
+      <record rec="5020669233" db="txdmv" ed="147">
+         <disp_fld1>JANE DOE</disp_fld1>
+         <disp_fld2>Year/Make/Model: 2012 HYUNDAI HYUNDAI SONATA</disp_fld2>
+         <disp_fld3>Current License Plate: XXXX846</disp_fld3>
+         <disp_fld4>Previous License Plate: XXXX846</disp_fld4>
+         <source>Texas - Department of Motor Vehicles [Owners]</source>
+      </record>
+      <record rec="5196261872" db="txdmv" ed="147">
+         <disp_fld1>JANE BAMBI DOE</disp_fld1>
+         <disp_fld2>Year/Make/Model: 2017 HYUNDAI HYUNSAN</disp_fld2>
+         <disp_fld3>Current License Plate: XXXX531</disp_fld3>
+         <disp_fld4>Previous License Plate:</disp_fld4>
+         <source>Texas - Department of Motor Vehicles [Owners]</source>
+      </record>
+   </results>
+</pddata>
+```
+
 ## Data Cost
 Charge per query ($0.026 to $0.05 depedning on vlume) 
 
