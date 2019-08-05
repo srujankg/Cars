@@ -20,7 +20,7 @@ This example of XML data contains VIN, the registration date, model, year naught
    <pdfooters />
    <notes />
    <searchdata type="ADVANCED" asiname="NAME" title="Texas - Department of Motor Vehicles [Owners]" dbcount="1" reccount="55303681" db="txdmv" ed="147">
-      <userinput searchstring="AVA DALEY">
+      <userinput searchstring="JANE DOE">
          <p1>JANE DOE</p1>
          <matchany>ALL</matchany>
       </userinput>
@@ -33,7 +33,7 @@ This example of XML data contains VIN, the registration date, model, year naught
    <user>
       <dlnumber>XXXXXX933</dlnumber>
       <dlstate>UID</dlstate>
-      <id>D5285FA51A708AEC7B2412FB34BBA264</id>
+      <id>XXXXXXXXXXXXXXXXXXXXXXXXXX</id>
       <identifier />
       <sessionid />
       <tacdmv>DPPATX-01</tacdmv>
