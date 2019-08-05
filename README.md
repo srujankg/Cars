@@ -2,7 +2,7 @@
 Vehicle evaluation 
 
 # Program description
-A discovery in the common law jurisdictions allows opposition parties to obtain evidence through each other's parties or third parties. This program "Cars," provides aid to file discoveries through evaluation of locating property and its value over time. He program depreciates the value of the properties by using the straight line of the depreciation method. The Accelerated method depreciates the value at a faster rate than a traditional straight-line method.
+A discovery in the common law jurisdictions allows opposition parties to obtain evidence through each other's parties or third parties. This program "Cars," provides aid to file discoveries through evaluation of locating property and its value over time. The program depreciates the value of the properties by using the straight line of the depreciation method. The Accelerated method depreciates the value at a faster rate than a traditional straight-line method.
 
 ## Data Source
 The program extracts information from the website "Public Data," which is a website that allows people to seek public records from local, state, and federal agencies. This program contacts the "Public Data" server which enables the program to get a new ID token every day because the id to login varies every day. Logging into this program is similar to logging into public data you use the same username and password. This program is straightforward to use the application as person name, and the specified property is needed to be typed in, for the results to unveil. When looking into the property details such as the model, what year the car was bought, Registration date, and VIN will show up.
